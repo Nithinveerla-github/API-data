@@ -1,5 +1,5 @@
 {
-    "sofa": [
+    "Sofa": [
         {
             "id": 1,
             "title": "Modern Futon Sofa",
@@ -249,7 +249,7 @@
         "description": "A minimalist design without armrests, offering more open space. Simple and chic. Ideal for modern or minimalist decor.",
         "image": "https://m.media-amazon.com/images/I/61hi4+AJhUL._SL1000_.jpg"
     }],
- "beds" :  [ {
+ "Beds" :  [ {
         "id": 33,
         "title": "Solid Platform Bed",
         "price": "219900Rs",
